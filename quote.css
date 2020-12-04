@@ -1,0 +1,30 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.container{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+
+.btn {
+    background-color: blue;
+    border-style: none;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    outline: none;
+    
+}
+
+.quote {
+    font-style: oblique;
+    font-size: 18px;
+    font-weight: 500;
+
+}
